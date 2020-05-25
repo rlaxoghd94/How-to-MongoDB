@@ -8,5 +8,7 @@
 
 - [Getting Started](./001_Introduction/002_Getting_Started.md)
 
-- [Databases and Collections](./001_Introduction/003_Databases_and_Collections.md)
+- [Databases and Collections](./001_Introduction/003_Databases_and_Collections/001_Databases_and_Collections.md)
 
+  - [Views](./001_Introduction/003_Databases_and_Collections/002_Views.md)
+  
